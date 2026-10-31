@@ -31,5 +31,4 @@ window.RESTOSYNC_CONFIG = {
         }
     ]
 };
-
 console.log("BoluHalus custom asset loaded successfully!");
